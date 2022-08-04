@@ -1,0 +1,11 @@
+
+@RegressionTest
+Scenario: SearchBox functionality should work with a valid products name # src/test/java/features/SearchBox.feature:69
+  Given user is landed on amazon homepage                                # stepdefinitions.SearchBoxSteps.user_is_landed_on_amazon_homepage()
+  And user enter valid product name for search                           # stepdefinitions.SearchBoxSteps.user_enter_valid_product_name_for_search(io.cucumber.datatable.DataTable)
+    | product Name |
+    | T-shirt      |
+  When user click on search button                                       # stepdefinitions.SearchBoxSteps.user_click_on_search_button()
+  Then user should see the valid product appears after search            # stepdefinitions.SearchBoxSteps.user_should_see_the_valid_product_appears_after_search(io.cucumber.datatable.DataTable)
+    | Expected product Name |
+    | T-shirt               |

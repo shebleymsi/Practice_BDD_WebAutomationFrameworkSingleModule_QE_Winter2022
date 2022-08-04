@@ -3,7 +3,7 @@ Feature: Apple SearchBox Functionality
 #
 #
 #
-  @sharif
+  @Shebley
   Scenario: Apple search box functionality verify with valid product name
 #
 #Scenario: Apple search box functionality verify with Invalid product name

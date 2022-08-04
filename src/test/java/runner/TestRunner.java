@@ -19,6 +19,7 @@ import io.cucumber.testng.CucumberOptions;
                 "rerun:target/cucumber-reports/rerun.txt"
         },
         tags = "@RegressionTest and not @pending"
+ //       tags = "@Shebley and not @pending"
 //        tags = "@SmokeTest and not @pending"
 //        tags = "@AmazonTestAutomation and not @pending"
 )

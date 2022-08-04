@@ -6,7 +6,7 @@
     <test name="Amazon Web Automation">
         <classes>
 
-            <class name="runner.TestRunner"/>
+            <class name="runner.SmokeTestRunner"/>
 
         </classes>
 
