@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3085f397-3bd2-4060-911f-11a0977633d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/AmazonSignIn.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/AmazonSignIn.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/AppleSearchBox.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/AppleSearchBox.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/MD SHAHADUL ISLAM/IdeaProjects/BDD_WebAutomationFrameworkMultiModules_QE_Winter2022",
+    "last_opened_file_path": "C:/Users/MD SHAHADUL ISLAM/IdeaProjects/Practice_TDD_WebAutomationFrameworkSingleModule_QE_Winter2022",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.24597701",

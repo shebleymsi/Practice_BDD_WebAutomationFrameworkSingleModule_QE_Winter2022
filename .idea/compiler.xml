@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
       </profile>
-      <profile name="Annotation profile for BDD_WebAutomationFrameworkSingleModule_QE_Winter2022" enabled="true">
+      <profile name="Annotation profile for Practice_BDD_WebAutomationFrameworkSingleModule_QE_Winter2022" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
